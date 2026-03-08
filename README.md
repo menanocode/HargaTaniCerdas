@@ -111,4 +111,11 @@ Beberapa Endpoint utama yang bisa diakses untuk integrasi sistem ganda:
 ### Pengembangan Masa Depan
 Sistem dirancang dengan arsitektur modular yang memisahkan antara bagian *scrapper/collector* (`app/collectors`), jalur rute komunikasi (`app/routers`), dan Model ML (`app/ai`). Pendekatan ini memudahkan perluasan fungsi (*scalabiltiy*).
 
+### Preview Project
+<img width="1835" height="1002" alt="hrgtni" src="https://github.com/user-attachments/assets/b04e330f-e043-41d6-bbf0-5aff5095de6d" />
+<img width="1837" height="1001" alt="hrgtnii" src="https://github.com/user-attachments/assets/6b73d798-6fa5-4a35-94f8-4a557a4b968d" />
+
+
+
+
 *(Projek Web Skripsi & AI Development 2026)*
